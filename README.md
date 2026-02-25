@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hey, I'm Aldiyar 👋
 
 <!--
 **Crashjoy/Crashjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+## 💫 About Me:
 I am a Software Developer and a recent graduate of the Advanced Diploma in Computer Programming and Analysis program at Niagara College (GPA: 4.0). I specialize in building scalable backend systems and enjoy working at the intersection of application development and cloud infrastructure.
 
 
