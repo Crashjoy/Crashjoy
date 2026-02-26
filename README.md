@@ -50,7 +50,7 @@ I am a Software Developer and a recent graduate of the Advanced Diploma in Compu
 - **Key Tech:** C#, ASP.NET MVC, SQL Server, Entity Framework.
 - **Impact:** Reduced order-processing time by 25% and decreased data-entry errors by 20%.
 
-#### [KostMoving - AI-Powered Web Solution](https://github.com/Crashjoy/Moving_Project)🔒 (Private Repository)
+#### [KostMoving - AI-Powered Web Solution](https://github.com/Crashjoy/KostMoving-Case-Study)🔒 (Private Repository)
 - **The Problem:** A local moving business needed to automate inventory assessment and quote generation.
 - **The Solution:** Developed a custom web platform integrating a Python-based YOLO model for automated image recognition of inventory.
 - **Key Tech:** Python, ASP.NET Core, SQLite, Google Maps API.
