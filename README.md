@@ -44,7 +44,7 @@ I am a Software Developer and a recent graduate of the Advanced Diploma in Compu
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ## 📂 Featured Projects
-#### [Haver & Boecker Industrial Order Tracking System](https://github.com/Crashjoy/Sponsored-Project)🔒 (Private Repository)
+#### [Haver & Boecker Industrial Order Tracking System](https://github.com/Crashjoy/Haver-Boecker-Case-Study)🔒 (Private Repository)
 - **The Problem:** Industrial workflows had high data-entry error rates and slow processing times.
 - **The Solution:** Engineered a scalable C#/.NET MVC system integrated with existing ERP systems via RESTful APIs.
 - **Key Tech:** C#, ASP.NET MVC, SQL Server, Entity Framework.
