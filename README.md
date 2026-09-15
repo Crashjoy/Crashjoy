@@ -48,7 +48,7 @@ I am a Software Developer and a recent graduate of the Advanced Diploma in Compu
 - **The Problem:** Industrial workflows had high data-entry error rates and slow processing times.
 - **The Solution:** Engineered a scalable C#/.NET MVC system integrated with existing ERP systems via RESTful APIs.
 - **Key Tech:** C#, ASP.NET MVC, SQL Server, Entity Framework.
-- **Impact:** Reduced order-processing time by 25% and decreased data-entry errors by 20%.
+- **Impact:** Reduced order-processing time and decreased data-entry errors.
 
 #### [KostMoving - AI-Powered Web Solution](https://github.com/Crashjoy/KostMoving-Case-Study)🔒 (Private Repository)
 - **The Problem:** A local moving business needed to automate inventory assessment and quote generation.
